@@ -51,6 +51,6 @@ class CalculatorTest {
 
     @AfterAll
     static void AfterAll(){
-        System.out.println("All tests finished");
+        System.out.println("All tests are finished");
     }
 }
